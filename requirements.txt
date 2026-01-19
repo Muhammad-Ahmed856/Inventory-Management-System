@@ -1,0 +1,5 @@
+# Requirements for Inventory Project
+#
+# This project uses only the Python standard library by default.
+
+python>=3.8

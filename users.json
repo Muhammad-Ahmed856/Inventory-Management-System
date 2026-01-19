@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin",
+        "full_name": "System Administrator"
+    },
+    "manager": {
+        "password": "manager123",
+        "role": "manager",
+        "full_name": "Inventory Manager"
+    },
+    "staff": {
+        "password": "staff123",
+        "role": "staff",
+        "full_name": "Store Staff"
+    }
+}
