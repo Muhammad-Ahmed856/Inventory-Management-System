@@ -49,7 +49,7 @@ The app creates default data files when they are missing.
 
 ## users.json
 
-The `users.json` file provides template user accounts (admin/manager/staff). Do not commit real user data to the repository — instead keep `users.json` out of source control and use the example file.
+The `users.json` file provides template user accounts (admin/manager/staff). 
 
 ## Requirements
 
@@ -58,4 +58,5 @@ This project uses only the Python standard library by default. If you add third-
 ## License
 
 This project is licensed under the MIT License — see the `LICENSE` file.
+
 
